@@ -6,14 +6,14 @@ The project leveraged a custom AppSheet mobile app for efficient data collection
 Data Collection
 ===============
 
-./Data_Collection.png
+![](Data_Collection.png)
 
 Data Parsing
 ============
 
-./Data_Parsing.png
+![](Data_Parsing.png)
 
 Dashboards
 ==========
 
-./Overview_Dashboard.png
+![](Overview_Dashboard.png)
