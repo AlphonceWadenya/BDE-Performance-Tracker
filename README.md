@@ -12,7 +12,7 @@ Data Parsing
 
 ![](images/Data_Parsing.png)
 
-Code snippets available in src foler.
+Code snippets available in src folder.
 
 Dashboards
 ==========
